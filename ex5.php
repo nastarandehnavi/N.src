@@ -4,10 +4,15 @@
 ?>
 
 <style>
- 
+  /* Add your styles here */
+  .nav-item {
+    color:red
+    /* Your styles for nav-item */
+  }
+  
   .nav-link {
-    color: black;
-    
+    color: black; /* Set the color of the link to black */
+    /* Your styles for nav-link */
   }
 </style>
 
