@@ -1,11 +1,11 @@
 <?php 
-   $title = "Exercise 4 : ";
+   $title = "Exercise 5";
   
    
    include 'header.php' ?>
  
     <h2>4.2:  Check Eligibility for Voting :</h2>
-    <form method="post" action="process1.php">
+    <form method="post" action="README.me">
         <label for="name">Name:</label>
         <input type="text" id="name" name="name" required><br><br>
         <label for="age">Age:</label>
