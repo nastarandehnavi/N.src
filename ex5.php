@@ -14,4 +14,5 @@
         <a href="https://github.com/POORY-AZARE/php.teamwork/blob/main/README.md"target="blank"
         >README</a
       >
+      <li>About me</li>
 <?php include 'footer.php' ?>
