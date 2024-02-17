@@ -20,7 +20,7 @@ include 'header.php' ?>
                 <input type="text" class="form-control" id="last_name" name="last_name" required>
             </div>
             <div class="form-group">
-                <label for="city">City:</label>
+                <label for="last_name">City:</label>
                 <input type="text" class="form-control" id="city" name="city" required>
             </div>
             

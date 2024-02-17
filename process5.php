@@ -3,6 +3,7 @@
    
    include 'header.php' ?>
 <?php
+
 // Check if the 'submit' button in the form was clicked
 if (isset($_POST['submit'])) {
     // Retrieve data from the form and store it in variables
@@ -11,7 +12,7 @@ if (isset($_POST['submit'])) {
     $city = $_POST['city'];       // City
    
 
-    // Include the database connection file
+    // Include the database connection 
     include 'nd.php';
 
     // Define an SQL query to insert data into the 'customers' table
