@@ -6,7 +6,7 @@
 <style>
   /* Add your styles here */
   .nav-item {
-    color:red
+    color:blue
     /* Your styles for nav-item */
   }
   
@@ -16,7 +16,7 @@
   }
 </style>
 
- <li class="nav-item">
+ <li class="">
     <a class="nav-link" href="https://github.com/POORY-AZARE/php.teamwork/blob/main/README.md">README.md</a> 
  </li>
 
