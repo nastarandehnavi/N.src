@@ -16,7 +16,7 @@
 </style>
 
  <li class="nav-item">
-    <a class="nav-link" href="https://github.com/POORY-AZARE/php.teamwork/blob/main/README.md">README.md</a> 
+     class="nav-link" href="https://github.com/POORY-AZARE/php.teamwork/blob/main/README.md">README.md 
  </li>
 
 <?php include 'footer.php'; ?>
