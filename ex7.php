@@ -1,5 +1,5 @@
 <?php
-$title = "Exercise 8";
+$title = "Exercise 7";
 
 
 include 'header.php' ?>
