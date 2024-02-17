@@ -5,7 +5,8 @@ $title = "Exercise 7";
 include 'header.php' ?>
 
         <h2>Input your information</h2>
-        <form action="/submit" method="post">
+        
+        <form method="post" action="process5.php">
             <div class="form-group">
                 <label for="id">ID:</label>
                 <input type="number" class="form-control" id="id" name="id" required>
