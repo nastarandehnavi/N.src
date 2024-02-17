@@ -10,7 +10,7 @@
         <input type="text" id="name" name="name" required><br><br>
         <label for="age">Age:</label>
         <input type="number" id="age" name="age" required><br><br>
-        <input type="submit" value="Check Eligibility">
+        <input type="submit" value="click here to see README.md Assignment">
     </form>
 
    
